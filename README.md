@@ -78,16 +78,15 @@ Smart-Parking-System/
 
 ## 📸 Project Showcase
 
-*(To display your project images, place them in this main folder and rename them to match the links below!)*
+Here are some pictures of the live project setup:
 
-### Hardware & Wiring
-![Hardware Setup](hardware_setup.jpg)
-
-### Database Logging (SQL Server)
-![Database Logging](sql_server.jpg)
-
-### ESP32 Serial Monitor
-![Serial Monitor](serial_monitor.jpg)
+### Project Implementation
+![Proof 1](proof1.jpeg)
+![Proof 2](proof2.jpeg)
+![Proof 3](proof3.jpeg)
+![Proof 4](proof4.jpeg)
+![Proof 5](proof5.jpeg)
+![Proof 6](proof6.jpeg)
 
 ## 👨‍💻 Contributors
 
