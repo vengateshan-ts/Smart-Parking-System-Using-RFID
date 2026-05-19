@@ -1,5 +1,7 @@
 # 🚗 Smart Parking System
 
+![Smart Parking System](assets/hero.png)
+
 An automated, IoT-based smart parking system using **ESP32**, **RFID (MFRC522)**, **Flask (Python)**, and **SQL Server**. This system tracks vehicle entry and exit times automatically using RFID cards and records the logs in a centralized database.
 
 ## 🌟 Features
@@ -75,6 +77,19 @@ Smart-Parking-System/
 ## 🛡️ Security
 
 - **API Key**: Communication between the ESP32 and the Flask backend is authenticated using a predefined API key (`SMARTPARK_ESP32_KEY_2026`).
+
+## 📸 Project Showcase
+
+*(To display your project images, place them in the `assets/` folder and name them as shown below, or update the links to match your filenames!)*
+
+### Hardware & Wiring
+![Hardware Setup](assets/hardware_setup.jpg)
+
+### Database Logging (SQL Server)
+![Database Logging](assets/sql_server.jpg)
+
+### ESP32 Serial Monitor
+![Serial Monitor](assets/serial_monitor.jpg)
 
 ## 👨‍💻 Contributors
 
